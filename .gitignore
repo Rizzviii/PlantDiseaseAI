@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+env/
+.env/
+
+# Trained model (large binary file)
+*.keras
+*.h5
+*.pkl
+
+# Dataset folders (not committed — see docs/dataset_setup.md)
+PlantDataset/
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Report generator (internal use only)
+generate_report.py
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
