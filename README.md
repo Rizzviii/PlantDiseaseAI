@@ -1,9 +1,5 @@
 # 🌿 Plant Disease Intelligent Expert System
 
-> **CSC-412 Artificial Intelligence | Assignment 03 — Complex Computing Problem (CCP)**  
-> Bahria University, Karachi Campus | BSCS-5A | Spring 2026  
-> Instructor: Dr. Muhammad Tariq Siddique
-
 ---
 
 ## 📌 Overview
@@ -49,7 +45,7 @@ PlantDiseaseAI/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/PlantDiseaseAI.git
+git clone https://github.com/Rizzviii/PlantDiseaseAI.git
 cd PlantDiseaseAI
 ```
 
@@ -67,7 +63,7 @@ pip install -r requirements.txt
 
 ### 4. Prepare the dataset
 See [`docs/dataset_setup.md`](docs/dataset_setup.md) for full instructions.  
-Short version: download 6 folders from [PlantVillage on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease), rename them, and place ~60–80 images per class.
+Short version: download 6 folders from [PlantVillage on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease), rename them.
 
 ```
 PlantDataset/
@@ -190,5 +186,5 @@ It covers theoretical background, system architecture, implementation details, e
 
 ## 📜 License
 
-This project is submitted as academic coursework for CSC-412 at Bahria University.  
+This project is submitted as academic coursework for at Bahria University.  
 For educational use only.
